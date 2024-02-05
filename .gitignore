@@ -1,0 +1,51 @@
+# Android
+/build/
+/app/build/
+/captures/
+
+# iOS
+/Pods/
+/ios/Pods/
+/ios/Runner.xcworkspace/
+/ios/xcuserdata/
+
+# macOS
+/.macosx/
+.DS_Store
+
+# Flutter/Dart
+**/doc/api/
+**/doc/client/
+
+# VSCode
+.vscode/
+
+# IntelliJ/Android Studio
+.idea/
+*.iml
+*.iws
+*.iwd
+
+# Flutter/Dart Packages
+.dart_tool/
+.packages
+.pub/
+/build/
+
+# Flutter SDK
+/bin/
+/cache/
+/flutter/
+
+# Web related
+/web/build/
+
+# Test coverage
+/coverage/
+
+# Other
+*.log
+*.sqlite
+*.sqlite3
+*.xlsx
+*.iml
